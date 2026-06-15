@@ -15,7 +15,7 @@ https://grade-calci.streamlit.app/
 
 ### Application Preview
 
-![Grade Calculator] <img width="1830" height="962" alt="image" src="https://github.com/user-attachments/assets/b6d52d0b-7d46-41a9-bda7-8b8aec0e8b55" />
+[Grade Calculator] <img width="1830" height="962" alt="image" src="https://github.com/user-attachments/assets/b6d52d0b-7d46-41a9-bda7-8b8aec0e8b55" />
 
 
 ---
