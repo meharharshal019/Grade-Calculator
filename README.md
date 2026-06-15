@@ -100,7 +100,6 @@ Through this project, I practiced:
 * GPA calculator
 
 ---
+## 🎯 Learning Outcomes
 
-## 📚 Note
-
-This is a beginner learning project built while learning Python and Streamlit. The goal was to gain hands-on experience by creating a functional web application.
+This project helped me practice Python fundamentals and gain hands-on experience building interactive web applications with Streamlit.
